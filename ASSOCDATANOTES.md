@@ -1,5 +1,5 @@
 # Displaying Associated Data
-#### [Back to Demo Page](/home.md)
+#### [Back to Demo Page](/README.md)
 
 Our designers have created a mockup of one of the pages of our application for displaying details about one individual dog house.Our API will need to serve up the data for this page as efficiently as possible. Ideally, that means we'll be able to have just **one** request that returns the data about the dog house as well as a list of all its reviews.
 
@@ -199,4 +199,4 @@ If you open the Rails server log after making this request, you'll see why: ther
 
 When developing APIs with our frontend needs in mind, it's best to structure our data to minimize the number of requests needed for the frontend to retrieve that data. We can take advantage of Active Record associations using `has_many` and `belongs_to` relationships, and serialize JSON data between related models using the `include` option.
 
-### [Back to Demo Page](/home.md)
+### [Back to Demo Page](/README.md)
