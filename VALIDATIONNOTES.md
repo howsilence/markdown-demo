@@ -1,5 +1,5 @@
 # Writing Server-Side Validations
-#### [Back to Demo Page](/home.md)
+#### [Back to Demo Page](/README.md)
 Let's start by adding some validations to our `Movie` model:
 
 ```rb
@@ -152,4 +152,4 @@ To handle server-side validations, we can leverage Active Record to check our mo
 
 To help our users correct these validation errors, we need to show them the error messages from the server. We can write some conditional code to handle successful vs unsuccessful responses from the server. In a React application, we can then use state to hold the error messages and render them somewhere on the form using JSX.
 
-### [Back to Demo Page](/home.md)
+### [Back to Demo Page](/README.md)
