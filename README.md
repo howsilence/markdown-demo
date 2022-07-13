@@ -1,8 +1,3 @@
----
-title: "Markdown Demo Website"
-permalink: /
-layout: default
----
 
 # This is Steve Tatton's Markdown Demonstration Webpage.
 
