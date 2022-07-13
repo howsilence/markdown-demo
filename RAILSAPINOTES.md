@@ -47,4 +47,4 @@ This command will:
 
 This is a powerful command so make sure you measure twice before you code once and make sure you only use `rails g resource` if you really NEED all the code it generates.
 
-### [Back to Demo Page](/home.md)
+### [Back to Demo Page](/README.md)
